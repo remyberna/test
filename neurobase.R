@@ -10,6 +10,11 @@ source(file = "/Users/bernardrmy/Desktop/librairies R/script/packages.R")
 
 
 
+
+
+
+
+
 base2<-read.csv2("/Users/bernardrmy/Desktop/2023/Neurobase/data/Anonymisation.csv",
                   na.strings=c(""," ","NA","Na","na"), dec=c(",","."),header=T)
 
